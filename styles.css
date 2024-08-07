@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    min-height: 98vh;
+    background-color: aliceblue;
+}
+#score {
+    font-weight: bold;
+    font-size: 2rem;
+}
